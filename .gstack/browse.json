@@ -1,0 +1,9 @@
+{
+  "pid": 502591,
+  "port": 21137,
+  "token": "5354ec52-b6bd-4ee4-b348-e0c7c9f04dcc",
+  "startedAt": "2026-08-07T23:40:04.689Z",
+  "serverPath": "/home/josh/.claude/skills/gstack/browse/src/server.ts",
+  "mode": "launched",
+  "configHash": "303a7eeccc03078b"
+}

@@ -7,3 +7,8 @@
   verified responsive + zero console errors via gstack browse. Placeholders remain: phone
   number (555-0123), form endpoint, insurance status. NEXT: get real phone/email from him,
   buy the domain, deploy site/ to Cloudflare Pages.
+- **2026-08-07** — Pushed to github.com/joshmcguire/lockhart-lawn-care (public), deployed site/
+  via gh-pages subtree to https://joshmcguire.github.io/lockhart-lawn-care/. Removed the dead
+  mycustomtemplate.com CNAME from joshmcguire.github.io that was breaking all account Pages
+  URLs. NEXT: get his real phone/email, swap placeholders, buy domain, point it at Pages or
+  move to Cloudflare Pages.
