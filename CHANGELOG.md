@@ -12,3 +12,9 @@
   mycustomtemplate.com CNAME from joshmcguire.github.io that was breaking all account Pages
   URLs. NEXT: get his real phone/email, swap placeholders, buy domain, point it at Pages or
   move to Cloudflare Pages.
+- **2026-08-07** — Copy rewrite v2 from 4-model review panel (Grok x2, Gemini, DeepSeek;
+  Codex quota-blocked): owner voice, zero em dashes, phone number visible in header CTA,
+  overpromises softened, church proof leads commercial section, commercial form fields
+  added. Photo-first redesign: 6 labeled SVG placeholder slots (hero, church, 3-job
+  gallery, owner) with swap instructions in site/images/README.md. "Insured" kept per
+  Josh: design phase, site not being promoted yet. NEXT: real phone number + photos.

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 440">
+<rect width="600" height="440" fill="#dce8de"/>
+<rect x="8" y="8" width="584" height="424" fill="none" stroke="#8aa892" stroke-width="2" stroke-dasharray="10 8" rx="8"/>
+<path d="M266.0 226.0 l14-20 10 13 8-10 16 17z" fill="#8aa892"/>
+<circle cx="318.0" cy="198.0" r="7" fill="#8aa892"/>
+<text x="50%" y="254.0" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#55604f">PHOTO: recent job</text>
+</svg>
